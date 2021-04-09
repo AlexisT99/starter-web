@@ -5,6 +5,7 @@ es simple y es un cambio
 
 ## Introduccion
 Aqui va una introducción
+mas cambios
 
 ## Purpose
 
@@ -14,3 +15,4 @@ Cambio de proposito
 ## Deployment
 	ejemplos
 ## How to contribute
+Como contribuir
