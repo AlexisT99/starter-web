@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-es simple y es un cambio
+es simple y es un cambio. Agregando una linea de ejemplo
 
 ## Introduccion
 Aqui va una introducción
