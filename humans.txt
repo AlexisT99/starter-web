@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alexis Torres torres@gmail.com
+   
 
 # THANKS
 
