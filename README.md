@@ -19,3 +19,5 @@ Como contribuir
 
 ### Copyright
 2013
+
+## How to contribute
