@@ -16,3 +16,6 @@ Cambio de proposito
 	ejemplos
 ## How to contribute
 Como contribuir
+
+### Copyright
+2013
