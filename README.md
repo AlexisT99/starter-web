@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-es simple y es un cambio. Agregando una linea de ejemplo
+es simple y es un cambio. Agregando una linea de ejemplo, mas cambios
+de myfeatura branch
 
 ## Introduccion
 Aqui va una introducción
