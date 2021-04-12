@@ -15,7 +15,7 @@ Cambio de proposito
 ## Deployment
 	ejemplos
 ## How to contribute
-Como contribuir
+Como contribuir asi con esto
 
 ### Copyright
 2013
