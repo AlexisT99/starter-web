@@ -23,6 +23,6 @@ Como contribuir aqui
 >>>>>>> simple-changes
 
 ### Copyright
-2013
+2013. All rights reserved
 
 ## How to contribute
