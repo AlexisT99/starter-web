@@ -13,4 +13,5 @@ Para todos los involucrados
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+    cambios aqui
     jQuery, Modernizr
